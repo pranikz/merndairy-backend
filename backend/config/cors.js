@@ -15,7 +15,7 @@ OPTIONS request.
 const corsOptions = {
   origin: [
     "http://localhost:3000",
-    "merndairy-frontend.vercel.app",
+    "https://merndairy-frontend.vercel.app",
     "https://merndairy-backend-production.up.railway.app/",
   ],
   optionsSuccessStatus: 200,
